@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "137706338639",
+    "project_id": "sharing-contacts",
+    "storage_bucket": "sharing-contacts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137706338639:android:03cbb2ad99fa44a1792d3a",
+        "android_client_info": {
+          "package_name": "com.sharing_contacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137706338639-uch0d1am26rbrsk3pui4c7lvpqdjp8d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8RsfG-NnVPWiygtRWyFC1DhY3KIWCNIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137706338639-uch0d1am26rbrsk3pui4c7lvpqdjp8d8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
